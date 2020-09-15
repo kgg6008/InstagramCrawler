@@ -27,5 +27,5 @@ rs = instagram_crawler.start_crawler('스칼렛요한슨',post_num=10)
 
 #### Output
 ````
-[{'post_writer': '', 'post_context': '𝗛𝗲𝘆, 𝗳𝗲𝗹𝗹𝗮𝘀.$|||$⠀$|||$Scarlett Photos ❤ INSTAGRAM $|||$Scarlett Gifs ❤ TWITTER ', 'post_hashtag': '#scarlettjohansson$|||$#blackwidow$|
+[{'post_writer': '', 'post_context': '𝗛𝗲𝘆, 𝗳𝗲𝗹𝗹𝗮𝘀.$|||$⠀$|||$Scarlett Photos ❤ INSTAGRAM $|||$Scarlett Gifs ❤ TWITTER ', 'post_hashtag': '#scarlettjohansson$|||$#blackwidow$|...
 ````
